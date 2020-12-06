@@ -1,2 +1,4 @@
 linux/amd64
 linux/386
+linux/arm32
+linux/arm64
